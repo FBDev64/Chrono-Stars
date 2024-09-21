@@ -1,2 +1,3 @@
-# Chrono-Stars
-You are a setller sent to Mars to insdustrialize the planet.
+# Chrono Stars
+
+Vous êtes un Colon envoyé pour Industrialiser la Lune.
