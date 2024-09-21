@@ -1,4 +1,6 @@
-# GDD - Game Design Document - Chrono Stars
+# Chrono Stars
+
+GDD - Game Design Document (Document de Game Design)
 
 ## Classes et Compétences
 
